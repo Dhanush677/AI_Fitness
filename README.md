@@ -192,6 +192,29 @@ MediaPipe's published Python package support is safest with Python 3.10 to 3.12.
 
 If you try Python 3.13 or 3.14 and MediaPipe does not install, switch to Python 3.12.
 
+## Screenshots
+
+### 1. Home / Exercise Selection
+![Screenshot 1](screenshots/1.png)
+
+### 2. Exercise Selection UI
+![Screenshot 2](screenshots/2.png)
+
+### 3. Workout Started (Camera On)
+![Screenshot 3](screenshots/3.png)
+
+### 4. Pose Detection & Skeleton
+![Screenshot 4](screenshots/4.png)
+
+### 5. Rep Counter & Metrics
+![Screenshot 5](screenshots/5.png)
+
+### 6. Form Feedback (Green/Red)
+![Screenshot 6](screenshots/6.png)
+
+### 7. Final Output / Summary
+![Screenshot 7](screenshots/7.png)
+
 ## Step-by-Step: Run the Project in VS Code
 
 ## Step 1. Open the Project in VS Code
